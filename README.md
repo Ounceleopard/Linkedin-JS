@@ -8,7 +8,7 @@ Unfollow everyone on linkedin with one command
 2. Open Developer Tools in Chrome
 Right Click -> Inspect. Switch to the console tab.
 
-3. Run the following code in the console
+3. Run the following code in the console.
 
 ```bash
 
